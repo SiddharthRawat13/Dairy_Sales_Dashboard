@@ -1,12 +1,5 @@
+# Dairy Sales Dashboard PowerBi
 ![dairydashboard1](https://github.com/SiddharthRawat13/car_price_prediction_linear_model/assets/145152277/d420446e-a47d-4ae3-a750-2b0095a86d01)
-# Dairy-Sales-Dashboard PowerBi
-Its my first project
-In This project I used jupyter notebook for Data cleaning 
-For cleaning this Dairy DataSet I used pandas and numpy library and matplotlib
-In cleaning Data there were some duplicate and null values in rows which I removed using python 
-For visualization I used Power Bi as its is very easy to visualize Data
-
-Dairy Sales Dashboard
 
 This interactive dashboard provides a comprehensive overview of dairy sales performance across multiple dimensions:
 
